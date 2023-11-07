@@ -1,0 +1,10 @@
+.porfolio {
+    height: 100%;
+    width: 100%;
+}
+
+.client,
+.project,
+.reviews {
+    width: 33%;
+}
