@@ -10,10 +10,10 @@ export default function Header() {
             >
                 <div className="left">LOGO</div>
                 <div className="middle d-flex">
-                    <div><a>About</a></div>
-                    <div><a>Services</a></div>
-                    <div><a>Products</a></div>
-                    <div><a>Contacts</a></div>
+                    <span className="a"><a href="#about">About</a></span>
+                    <span className="b"><a href="#service">Services</a></span>
+                    <span className="c"><a href="#product">Products</a></span>
+                    <span className="d"><a href="#contact">Contact me</a></span>
                 </div>
                 <div className="right">Right</div>
             </div>

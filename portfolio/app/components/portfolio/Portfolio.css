@@ -1,10 +1,12 @@
 .porfolio {
     height: 100%;
     width: 100%;
+    border-radius: 5px;
 }
 
 .client,
 .project,
 .reviews {
     width: 33%;
+    border-radius: 5px;
 }

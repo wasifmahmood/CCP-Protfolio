@@ -11,7 +11,8 @@
 .homeright{
     height: 100%;
     width: 50%;
-    background-color: chartreuse;
+    padding-left: 4rem;
+    /* background-color: chartreuse; */
 }
 .icon{
     gap: 20px;
